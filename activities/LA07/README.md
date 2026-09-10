@@ -1,6 +1,6 @@
 ---
-id: LA06
-title: "LLM Output-Checking: Inductive Explainability Pipeline"
+id: LA07
+title: Inductive LLM Explainability Pipeline
 keywords: [Fact-checking, Source verification, Reliability, Trustworthiness, Responsible AI]
 related_ilos: [MM08, EPR06]
 type: "In-class, Small groups, Digital"
@@ -13,7 +13,7 @@ scale: "Large and small cohorts"
 expanded_version: null
 ---
 
-# LLM Output-Checking: Inductive Explainability Pipeline
+# Inductive LLM Explainability Pipeline
 
 **Related ILOs:** MM08, EPR06
 **Type:** In-class, Small groups, Digital · **Duration:** 60 minutes · **Scale:** large and small cohorts

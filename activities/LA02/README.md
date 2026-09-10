@@ -1,5 +1,5 @@
 ---
-id: LA01
+id: LA02
 title: AI History Timeline
 keywords: [AI history, Milestones, Chronology, Group discussion]
 related_ilos: [H01, H02]

@@ -1,6 +1,6 @@
 ---
-id: LA08
-title: Anatomy of (Another) AI System
+id: LA04
+title: "Anatomy of (Another) AI System"
 keywords: [Resource consumption, Labour, Data, Environmental impact, AI infrastructure]
 related_ilos: [EPR01, EPR09]
 type: "In-class, Small groups, Offline"

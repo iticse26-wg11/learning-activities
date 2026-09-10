@@ -1,5 +1,5 @@
 ---
-id: LA12
+id: LA14
 title: Personal AI Use Reflection
 keywords: [Cognitive debt, Augmentation, Substitution, AI habits, Skill development]
 related_ilos: [EPR08]

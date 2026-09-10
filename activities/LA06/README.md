@@ -1,6 +1,6 @@
 ---
-id: LA03
-title: Basic LLM Output Evaluation and Fact Checking
+id: LA06
+title: LLM Output Evaluation and Fact-Checking
 keywords: [Model comparison, Fact-checking, Policy compliance, Output quality, Limitations]
 related_ilos: [EPR04]
 type: "In-lab, Individual, Digital"
@@ -13,7 +13,7 @@ scale: "Large and small cohorts"
 expanded_version: null
 ---
 
-# Basic LLM Output Evaluation and Fact Checking
+# LLM Output Evaluation and Fact-Checking
 
 **Related ILOs:** EPR04
 **Type:** In-lab, Individual, Digital · **Duration:** 60 minutes · **Scale:** large and small cohorts

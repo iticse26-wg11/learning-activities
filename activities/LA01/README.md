@@ -1,6 +1,6 @@
 ---
-id: LA10
-title: AI Pre/Post Mindmap
+id: LA01
+title: AI Mindmap
 keywords: [Prior knowledge, Misconceptions, Conceptual change, Self-reflection, GenAI understanding]
 related_ilos: [MM05]
 type: "In-class, Individual and Small groups"
@@ -13,7 +13,7 @@ scale: "Any size of classroom"
 expanded_version: null
 ---
 
-# AI Pre/Post Mindmap
+# AI Mindmap
 
 **Related ILOs:** MM05
 **Type:** In-class, Individual and Small groups · **Duration:** ~25 minutes (first session) + ~25 minutes (second session) · **Scale:** any size of classroom

@@ -1,6 +1,6 @@
 ---
-id: LA04
-title: "AI Application Project: AI Usage Plan, AI-Assisted Software Development Evaluation Framework, Concluding Discussion"
+id: LA15
+title: AI Application Project
 short_title: AI Application Project
 keywords: [AI-assisted creation, Prompt iteration, Reflective practice, Human-AI contribution, Responsible use]
 related_ilos: [EPR11, EPR13, EPR14, CS07]
@@ -14,7 +14,7 @@ scale: "Large and small cohorts"
 expanded_version: null
 ---
 
-# AI Application Project: AI Usage Plan, AI-Assisted Software Development Evaluation Framework, Concluding Discussion
+# AI Application Project
 
 **Related ILOs:** EPR11, EPR13, EPR14, CS07
 **Type:** In-lab, Individual or Small groups, Digital · **Duration:** 2 hours · **Scale:** large and small cohorts

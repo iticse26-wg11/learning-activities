@@ -28,7 +28,7 @@ AI alignment, AI jailbreaks, Model safety, Misuse prevention, Python lab
 
 ## Prerequisites
 
-- Conceptual understanding of the LLM text generation process (e.g. after the [Unplugged LLM Simulation](07-unplugged-llm-simulation.md) activity)
+- Conceptual understanding of the LLM text generation process (e.g. after the [Unplugged Language Model Simulation (LA03)](../LA03/README.md) activity)
 - Introductory-level Python ability
 - Access to hosted Python notebook runtime (e.g. Google Colab) and the `transformers` Python module
 

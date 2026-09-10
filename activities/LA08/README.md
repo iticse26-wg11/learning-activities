@@ -1,5 +1,5 @@
 ---
-id: LA05
+id: LA08
 title: Designing an Explainable AI System
 keywords: [Explainable AI, Decision trees, Transparency, Black-box systems, User trust, Trust]
 related_ilos: [MM07]

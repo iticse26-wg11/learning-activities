@@ -1,5 +1,5 @@
 ---
-id: LA##
+id: LA##                  # directory name must match: activities/LA##/README.md
 title: Activity title
 keywords: [keyword 1, keyword 2]
 related_ilos: [ID1, ID2]

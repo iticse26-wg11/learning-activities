@@ -1,6 +1,6 @@
 ---
-id: LA07
-title: Unplugged LLM Simulation
+id: LA03
+title: Unplugged Language Model Simulation
 keywords: [Language modelling, n-grams, Token sampling, Training data, Randomness]
 related_ilos: [MM01, EPR02, CS02]
 type: "In-class, Small groups, Unplugged"
@@ -13,7 +13,7 @@ scale: "Two or more small groups; scalable for large classes"
 expanded_version: null   # placeholder in source ("Expanded version is here: …")
 ---
 
-# Unplugged LLM Simulation
+# Unplugged Language Model Simulation
 
 **Related ILOs:** MM01, EPR02, CS02
 **Type:** In-class, Small groups, Unplugged · **Duration:** 45 minutes · **Scale:** two or more small groups, scalable for large classes

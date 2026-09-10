@@ -1,6 +1,6 @@
 ---
-id: LA11
-title: AI Evaluation Frameworks + Policies
+id: LA12
+title: AI Evaluation Frameworks and Policies
 keywords: [Fairness, Transparency, Accountability, AI policy, Risk classification]
 related_ilos: [EPR10, EPR12]
 type: "In-class, Small groups, Unplugged"
@@ -13,7 +13,7 @@ scale: "2 or more small groups of 4–5 students"
 expanded_version: null
 ---
 
-# AI Evaluation Frameworks + Policies
+# AI Evaluation Frameworks and Policies
 
 **Related ILOs:** EPR10, EPR12
 **Type:** In-class, Small groups, Unplugged · **Duration:** 90 minutes (45 + 45 for the two parts) · **Scale:** 2 or more small groups of 4–5 students

@@ -1,5 +1,5 @@
 ---
-id: LA02
+id: LA11
 title: Content Detection Limitations
 keywords: [Output evaluation, Hallucination detection, Adversarial prompting, Evaluation criteria, Scope compliance]
 related_ilos: [EPR07]
