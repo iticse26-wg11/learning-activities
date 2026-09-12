@@ -83,6 +83,14 @@ def readme_block(acts, ilos):
     for mode in ["Unplugged", "Digital", "Offline", None]:
         ids = [a["id"] for a in acts if a.get("mode") == mode]
         out.append(f"| {mode or 'Not specified (paper or digital)'} | {', '.join(ids)} |")
+    out += ["", "### With an assessment component", "", "| Activity | Assessment |", "|----------|------------|"]
+    out += [f"| {link(a)} {a['title']} | {a['assessment']} |" for a in acts if a.get("assessed")]
+    pre = [a["id"] for a in acts if "Pre-sessional" in (a.get("setting") or [])]
+    out += ["", "### With pre-sessional work", "", ", ".join(pre) or "none"]
+    out += ["", "### With an expanded version", ""]
+    exp = [a for a in acts if a.get("expanded_version")]
+    out += [f"- {link(a)} {a['title']}: " + (f"<{a['expanded_version']}>" if a["expanded_version"].startswith("http")
+            else f"[{a['expanded_version']}](activities/{a['id']}/{a['expanded_version']})") for a in exp] or ["none yet"]
     return "\n".join(out)
 
 def coverage(acts, ilos):
@@ -135,4 +143,5 @@ def main():
         p.write_text(files[p])
     print(f"wrote {len(stale)} file(s):", ", ".join(str(p.relative_to(ROOT)) for p in stale) or "nothing stale")
 
-main()
+if __name__ == "__main__":
+    main()

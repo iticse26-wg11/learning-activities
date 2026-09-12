@@ -1,25 +1,29 @@
+<!-- Activities are imported from the working-group report by scripts/import-from-report.py; this template shows the shape the importer produces. Add a new activity to the report first, then import. Only expanded_version and status are edited here. -->
 ---
 id: LA##                  # directory name must match: activities/LA##/README.md
-title: Activity title
-keywords: [keyword 1, keyword 2]
+title: "Activity title"
+keywords: ["keyword 1", "keyword 2"]
 related_ilos: [ID1, ID2]
-prerequisite_ilos: []
-type: "In-class, Small groups, Unplugged"
-setting: [In-class]          # In-class | In-lab | Pre-sessional
-grouping: [Small groups]     # Individual | Small groups
-mode: Unplugged              # Unplugged | Digital | Offline | null
+prerequisite_ilos: []     # ILO ids named in the report's Prerequisites field
+type: "In-class, small groups, unplugged"
+setting: [In-class]       # In-class | In-lab | Pre-sessional (derived from type)
+grouping: ["Small groups"]  # Individual | Small groups (derived from type)
+mode: Unplugged           # Unplugged | Digital | Offline | null (derived from type)
 duration: "45 minutes"
 assessment: "No"
-scale: "2 or more small groups"
-expanded_version: null
+assessed: false           # derived: false when assessment starts with "No"
+scale: "Two or more small groups"
+expanded_version: null    # repo-owned: "expanded.md", a URL, or null
 ---
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit …) by scripts/import-from-report.py. -->
 
 # Activity title
 
-**Related ILOs:** ID1, ID2   <!-- regenerated (with links) from the frontmatter by scripts/build-index.py; bare ILO ids anywhere in the body are linked too -->
-**Type:** In-class, Small groups, Unplugged · **Duration:** 45 minutes · **Scale:** 2 or more small groups
+**Related ILOs:** ID1, ID2   <!-- regenerated (with links) by scripts/build-index.py -->
 
-> Expanded version: <url> *(if any)*
+**Type:** In-class, small groups, unplugged · **Duration:** 45 minutes · **Scale:** Two or more small groups
+
+> Expanded version: [expanded.md](expanded.md)   <!-- only when expanded_version is set -->
 
 ## Description
 
@@ -39,4 +43,8 @@ keyword 1, keyword 2
 
 ## Assessment
 
-No / Formative / …
+No
+
+## References
+
+- Only when the report cites something in this activity.
