@@ -16,7 +16,7 @@ expanded_version: null
 
 # AI Application Project
 
-**Related ILOs:** EPR11, EPR13, EPR14, CS07
+**Related ILOs:** [EPR11](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR11.md), [EPR13](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR13.md), [EPR14](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR14.md), [CS07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS07.md)
 **Type:** In-lab, Individual or Small groups, Digital · **Duration:** 2 hours · **Scale:** large and small cohorts
 
 ## Description

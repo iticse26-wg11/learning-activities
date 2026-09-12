@@ -16,7 +16,7 @@ expanded_version: null
 
 # AI Use Case Analysis and Evaluation
 
-**Related ILOs:** MM04, MM06, CS04a, CS04b
+**Related ILOs:** [MM04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM04.md), [MM06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM06.md), [CS04a](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04a.md), [CS04b](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04b.md) · **Prerequisite ILOs:** [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md), [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md), [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
 **Type:** In-class, Individual and Small groups, Digital · **Duration:** 20 minutes per use case + 30 minutes for the final discussion · **Scale:** large and small cohorts
 
 ## Description
@@ -42,7 +42,7 @@ Use-case analysis, Output quality, Ethical evaluation, Factual errors, Added val
 
 ## Prerequisites
 
-ILOs MM01, MM02, EPR05, CS02
+ILOs [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md), [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md), [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
 
 ## Resources
 

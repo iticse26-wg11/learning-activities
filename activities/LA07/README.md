@@ -15,7 +15,7 @@ expanded_version: null
 
 # Inductive LLM Explainability Pipeline
 
-**Related ILOs:** MM08, EPR06
+**Related ILOs:** [MM08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM08.md), [EPR06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR06.md)
 **Type:** In-class, Small groups, Digital · **Duration:** 60 minutes · **Scale:** large and small cohorts
 
 ## Description

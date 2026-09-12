@@ -15,7 +15,7 @@ expanded_version: null   # placeholder in source ("Expanded version is here: …
 
 # Unplugged Language Model Simulation
 
-**Related ILOs:** MM01, EPR02, CS02
+**Related ILOs:** [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md), [EPR02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR02.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
 **Type:** In-class, Small groups, Unplugged · **Duration:** 45 minutes · **Scale:** two or more small groups, scalable for large classes
 
 > Expanded version: *(link to be added — placeholder in source)*

@@ -15,7 +15,7 @@ expanded_version: null
 
 # Content Detection Limitations
 
-**Related ILOs:** EPR07
+**Related ILOs:** [EPR07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR07.md)
 **Type:** In-class, Small groups, Digital · **Duration:** 60–90 minutes · **Scale:** minimum 2 sets of small groups
 
 ## Description

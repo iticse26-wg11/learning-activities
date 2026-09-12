@@ -15,7 +15,7 @@ expanded_version: null
 
 # LLM Output Evaluation and Fact-Checking
 
-**Related ILOs:** EPR04
+**Related ILOs:** [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md)
 **Type:** In-lab, Individual, Digital · **Duration:** 60 minutes · **Scale:** large and small cohorts
 
 ## Description

@@ -15,7 +15,7 @@ expanded_version: "https://docs.google.com/document/d/1_l-GA_432BFovrtk_5Yj1o6kr
 
 # AI History Timeline
 
-**Related ILOs:** H01, H02
+**Related ILOs:** [H01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H01.md), [H02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H02.md)
 **Type:** In-class, Small groups, Unplugged · **Duration:** 45 minutes · **Scale:** 2 or more small groups
 
 > Expanded version: <https://docs.google.com/document/d/1_l-GA_432BFovrtk_5Yj1o6kry0Enl-Uf0ndprU22ss/edit?tab=t.0>

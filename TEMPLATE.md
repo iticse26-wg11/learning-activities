@@ -16,7 +16,7 @@ expanded_version: null
 
 # Activity title
 
-**Related ILOs:** ID1, ID2
+**Related ILOs:** ID1, ID2   <!-- regenerated (with links) from the frontmatter by scripts/build-index.py; bare ILO ids anywhere in the body are linked too -->
 **Type:** In-class, Small groups, Unplugged · **Duration:** 45 minutes · **Scale:** 2 or more small groups
 
 > Expanded version: <url> *(if any)*

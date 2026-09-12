@@ -15,7 +15,7 @@ expanded_version: null   # placeholder in source ("Expanded version is here:" wi
 
 # Designing an Explainable AI System
 
-**Related ILOs:** MM07
+**Related ILOs:** [MM07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM07.md)
 **Type:** In-class, Small groups, Unplugged · **Duration:** 60–90 minutes · **Scale:** large and small cohorts
 
 > Expanded version: *(link to be added — placeholder in source)*

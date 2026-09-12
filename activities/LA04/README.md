@@ -15,7 +15,7 @@ expanded_version: null
 
 # Anatomy of (Another) AI System
 
-**Related ILOs:** EPR01, EPR09
+**Related ILOs:** [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md), [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md)
 **Type:** In-class, Small groups, Offline · **Duration:** 1 hour · **Scale:** 1 or more small groups
 
 ## Description

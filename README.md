@@ -1,6 +1,6 @@
 # Learning Activities
 
-Learning activities for **generative AI literacy for computing students in higher education**, developed by ITiCSE 2026 Working Group 11. Each activity is mapped to the working group's [intended learning outcomes](../intended-learning-outcomes/) (ILOs).
+Learning activities for **generative AI literacy for computing students in higher education**, developed by ITiCSE 2026 Working Group 11. Each activity is mapped to the working group's [intended learning outcomes](https://github.com/iticse26-wg11/intended-learning-outcomes) (ILOs).
 
 ## Contents
 
@@ -14,25 +14,25 @@ Learning activities for **generative AI literacy for computing students in highe
 ## Activities
 
 <!-- BEGIN GENERATED -->
-15 activities. IDs (`LA01`–`LA15`) follow the presentation order of the working-group report and are permanent: never renumbered or reused.
+15 activities. IDs (`LA01`–`LA15`) follow the presentation order of the working-group report and are permanent: never renumbered or reused. ILO ids link to their stable pages in [`intended-learning-outcomes`](https://github.com/iticse26-wg11/intended-learning-outcomes).
 
 | ID | Activity | Related ILOs | Type | Duration |
 |----|----------|--------------|------|----------|
-| LA01 | [AI Mindmap](activities/LA01/README.md) | MM05 | In-class, Individual and Small groups | ~25 minutes for the first session + ~25 minutes for the second session |
-| LA02 | [AI History Timeline](activities/LA02/README.md) | H01, H02 | In-class, Small groups, Unplugged | 45 minutes |
-| LA03 | [Unplugged Language Model Simulation](activities/LA03/README.md) | MM01, EPR02, CS02 | In-class, Small groups, Unplugged | 45 minutes |
-| LA04 | [Anatomy of (Another) AI System](activities/LA04/README.md) | EPR01, EPR09 | In-class, Small groups, Offline | 1 hour |
-| LA05 | [AI Model Pipeline](activities/LA05/README.md) | MM02, EPR03 | In-class, Individual and Small-group, Unplugged | 45 minutes |
-| LA06 | [LLM Output Evaluation and Fact-Checking](activities/LA06/README.md) | EPR04 | In-lab, Individual, Digital | 60 minutes |
-| LA07 | [Inductive LLM Explainability Pipeline](activities/LA07/README.md) | MM08, EPR06 | In-class, Small groups, Digital | 60 minutes |
-| LA08 | [Designing an Explainable AI System](activities/LA08/README.md) | MM07 | In-class, Small groups, Unplugged | 60–90 minutes |
-| LA09 | [AI Alignment Lab](activities/LA09/README.md) | MM03, EPR05 | In-class, Individual or Small groups, Digital | 2 hours (including individual investigation and reflection outside of class) |
-| LA10 | [AI Use Case Analysis and Evaluation](activities/LA10/README.md) | MM04, MM06, CS04a, CS04b | In-class, Individual and Small groups, Digital | 20 minutes per use case + 30 minutes for the final discussion |
-| LA11 | [Content Detection Limitations](activities/LA11/README.md) | EPR07 | In-class, Small groups, Digital | 60–90 minutes |
-| LA12 | [AI Evaluation Frameworks and Policies](activities/LA12/README.md) | EPR10, EPR12 | In-class, Small groups, Unplugged | 90 minutes (45 + 45 for the two parts) |
-| LA13 | [Application of AI to Specific Problem: Problem Decomposition, Model Selection, Output Evaluation](activities/LA13/README.md) | CS01, CS03, CS05, CS06 | In-class, Pre-sessional, Individual and Small group, Digital | 60 minutes pre-sessional activity; 90–120 minutes in-classroom activities |
-| LA14 | [Personal AI Use Reflection](activities/LA14/README.md) | EPR08 | In-class, Pre-sessional work, Individual and Small groups, Digital | ~20 min at home + ~15–20 min in-class group discussion |
-| LA15 | [AI Application Project](activities/LA15/README.md) | EPR11, EPR13, EPR14, CS07 | In-lab, Individual or Small groups, Digital | 2 hours |
+| LA01 | [AI Mindmap](activities/LA01/README.md) | [MM05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM05.md) | In-class, Individual and Small groups | ~25 minutes for the first session + ~25 minutes for the second session |
+| LA02 | [AI History Timeline](activities/LA02/README.md) | [H01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H01.md), [H02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H02.md) | In-class, Small groups, Unplugged | 45 minutes |
+| LA03 | [Unplugged Language Model Simulation](activities/LA03/README.md) | [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md), [EPR02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR02.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md) | In-class, Small groups, Unplugged | 45 minutes |
+| LA04 | [Anatomy of (Another) AI System](activities/LA04/README.md) | [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md), [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md) | In-class, Small groups, Offline | 1 hour |
+| LA05 | [AI Model Pipeline](activities/LA05/README.md) | [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md), [EPR03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR03.md) | In-class, Individual and Small-group, Unplugged | 45 minutes |
+| LA06 | [LLM Output Evaluation and Fact-Checking](activities/LA06/README.md) | [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md) | In-lab, Individual, Digital | 60 minutes |
+| LA07 | [Inductive LLM Explainability Pipeline](activities/LA07/README.md) | [MM08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM08.md), [EPR06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR06.md) | In-class, Small groups, Digital | 60 minutes |
+| LA08 | [Designing an Explainable AI System](activities/LA08/README.md) | [MM07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM07.md) | In-class, Small groups, Unplugged | 60–90 minutes |
+| LA09 | [AI Alignment Lab](activities/LA09/README.md) | [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md), [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md) | In-class, Individual or Small groups, Digital | 2 hours (including individual investigation and reflection outside of class) |
+| LA10 | [AI Use Case Analysis and Evaluation](activities/LA10/README.md) | [MM04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM04.md), [MM06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM06.md), [CS04a](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04a.md), [CS04b](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04b.md) | In-class, Individual and Small groups, Digital | 20 minutes per use case + 30 minutes for the final discussion |
+| LA11 | [Content Detection Limitations](activities/LA11/README.md) | [EPR07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR07.md) | In-class, Small groups, Digital | 60–90 minutes |
+| LA12 | [AI Evaluation Frameworks and Policies](activities/LA12/README.md) | [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md), [EPR12](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR12.md) | In-class, Small groups, Unplugged | 90 minutes (45 + 45 for the two parts) |
+| LA13 | [Application of AI to Specific Problem: Problem Decomposition, Model Selection, Output Evaluation](activities/LA13/README.md) | [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md), [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md), [CS05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS05.md), [CS06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS06.md) | In-class, Pre-sessional, Individual and Small group, Digital | 60 minutes pre-sessional activity; 90–120 minutes in-classroom activities |
+| LA14 | [Personal AI Use Reflection](activities/LA14/README.md) | [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md) | In-class, Pre-sessional work, Individual and Small groups, Digital | ~20 min at home + ~15–20 min in-class group discussion |
+| LA15 | [AI Application Project](activities/LA15/README.md) | [EPR11](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR11.md), [EPR13](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR13.md), [EPR14](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR14.md), [CS07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS07.md) | In-lab, Individual or Small groups, Digital | 2 hours |
 
 ### By ILO area
 

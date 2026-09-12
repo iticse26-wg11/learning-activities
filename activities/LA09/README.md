@@ -15,7 +15,7 @@ expanded_version: null
 
 # AI Alignment Lab
 
-**Related ILOs:** MM03, EPR05
+**Related ILOs:** [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md), [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md)
 **Type:** In-class, Individual or Small groups, Digital · **Duration:** 2 hours (including individual investigation and reflection outside of class) · **Scale:** individual assignment, or one or more small groups
 
 ## Description

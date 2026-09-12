@@ -15,7 +15,7 @@ expanded_version: null
 
 # AI Mindmap
 
-**Related ILOs:** MM05
+**Related ILOs:** [MM05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM05.md)
 **Type:** In-class, Individual and Small groups · **Duration:** ~25 minutes (first session) + ~25 minutes (second session) · **Scale:** any size of classroom
 
 ## Description

@@ -17,7 +17,7 @@ expanded_version: null
 
 # Application of AI to Specific Problem: Problem Decomposition, Model Selection, Output Evaluation
 
-**Related ILOs:** CS01, CS03, CS05, CS06
+**Related ILOs:** [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md), [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md), [CS05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS05.md), [CS06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS06.md) · **Prerequisite ILOs:** [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md), [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md)
 **Type:** In-class, Pre-sessional, Individual and Small group, Digital · **Duration:** 60 minutes pre-sessional; 90–120 minutes in class · **Scale:** two or more groups, scalable to large classes
 
 ## Description
@@ -34,7 +34,7 @@ Problem decomposition, Model selection, Human oversight, Data privacy, Task allo
 
 ## Prerequisites
 
-- Learning objectives CS01, CS02, CS03
+- Learning objectives [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md), [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md)
 - Practical knowledge of GenAI models, prompting, and tools
 
 ## Resources

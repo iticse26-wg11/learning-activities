@@ -15,7 +15,7 @@ expanded_version: null   # placeholder in source ("Expanded version is here: …
 
 # Personal AI Use Reflection
 
-**Related ILOs:** EPR08
+**Related ILOs:** [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md)
 **Type:** In-class, Pre-sessional work, Individual and Small groups, Digital · **Duration:** ~20 min done at home + ~15–20 min in-class group discussion · **Scale:** 2 or more small groups of 4–5 students
 
 > Expanded version: *(link to be added — placeholder in source)*

@@ -3,6 +3,7 @@ id: LA05
 title: AI Model Pipeline
 keywords: [Model lifecycle, Data risks, RLHF (Reinforcement Learning from Human Feedback), Data sovereignty, Responsibility]
 related_ilos: [MM02, EPR03]
+prerequisite_ilos: [CS02]
 type: "In-class, Individual and Small-group, Unplugged"
 setting: [In-class]
 grouping: [Individual, Small groups]
@@ -15,7 +16,7 @@ expanded_version: null
 
 # AI Model Pipeline
 
-**Related ILOs:** MM02, EPR03
+**Related ILOs:** [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md), [EPR03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR03.md) · **Prerequisite ILOs:** [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
 **Type:** In-class, Individual and Small-group, Unplugged · **Duration:** 45 minutes · **Scale:** two or more small groups
 
 ## Description
@@ -28,7 +29,7 @@ Model lifecycle, Data risks, RLHF (Reinforcement Learning from Human Feedback), 
 
 ## Prerequisites
 
-- Basic familiarity with the GenAI pipeline as in CS02
+- Basic familiarity with the GenAI pipeline as in [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
 
 ## Resources
 

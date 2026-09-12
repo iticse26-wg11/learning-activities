@@ -15,7 +15,7 @@ expanded_version: null
 
 # AI Evaluation Frameworks and Policies
 
-**Related ILOs:** EPR10, EPR12
+**Related ILOs:** [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md), [EPR12](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR12.md)
 **Type:** In-class, Small groups, Unplugged · **Duration:** 90 minutes (45 + 45 for the two parts) · **Scale:** 2 or more small groups of 4–5 students
 
 ## Description
