@@ -1,81 +1,53 @@
 ---
 id: LA08
-title: Designing an Explainable AI System
-keywords: [Explainable AI, Decision trees, Transparency, Black-box systems, User trust, Trust]
+title: "Designing an Explainable AI System"
+keywords: ["Explainable AI", "decision trees", "transparency", "black-box systems", "user trust", "trust"]
 related_ilos: [MM07]
-type: "In-class, Small groups, Unplugged"
-setting: [In-class]
-grouping: [Small groups]
+prerequisite_ilos: []
+type: "In-class, small groups, unplugged"
+setting: ["In-class"]
+grouping: ["Small groups"]
 mode: Unplugged
-duration: "60–90 minutes"
+duration: "80-120 minutes"
 assessment: "No"
-scale: "Large and small cohorts"
-expanded_version: null   # placeholder in source ("Expanded version is here:" with no link)
+assessed: false
+scale: "Small and large cohorts"
+expanded_version: "expanded.md"
 ---
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Designing an Explainable AI System
 
 **Related ILOs:** [MM07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM07.md)
-**Type:** In-class, Small groups, Unplugged · **Duration:** 60–90 minutes · **Scale:** large and small cohorts
 
-> Expanded version: *(link to be added — placeholder in source)*
+**Type:** In-class, small groups, unplugged · **Duration:** 80-120 minutes · **Scale:** Small and large cohorts
+
+> Expanded version: [expanded.md](expanded.md)
 
 ## Description
 
-This activity aims to help students understand what explainability means in AI systems. Students work in groups of 3–4 to build and audit their own Explainable AI (XAI) models using a physical binary decision tree.
+This activity aims to help students understand what explainability means in AI systems. Students work in groups of 3–4 to build and audit a simplified Explainable AI (XAI) system using a physical binary decision tree. The activity also introduces the idea that an explanation's usefulness can depend on who it's intended for.
 
-To begin, the instructor provides broad themes or familiar categories that the groups can choose from, such as animals, vehicles, cities, or email types. Each group selects one theme and chooses four distinct items that will appear at the bottom of the decision tree. The group acts as "AI Architects" and draws a branching tree made up of yes/no questions.
+To begin, the instructor provides broad themes or familiar categories that the groups can choose from, such as animals, vehicles, cities, or email types. Each group selects one theme and chooses four distinct items that will appear at the bottom of the decision tree. The group acts as “AI Architects” and draws a branching tree made up of yes/no questions.
 
-Each group creates a binary decision tree with two levels of yes/no questions, leading to four final items. Each decision point should have exactly two branches: yes and no. Each series of questions should lead to one specific item, as shown in the figure below. The group also creates one post-it note for each of the four items, for example "Personal Message," "School Announcement," "Advertisement," or "Spam."
+Once the decision trees are complete, the groups pair up for a two-part audit. This explores how transparency can influence user trust.
 
-```mermaid
-flowchart TD
-    Q1{Is the email from<br>someone you know?}
-    Q2{Is it mainly<br>about school?}
-    Q3{Is it trying to<br>sell something?}
-    A[School Announcement 🏫]
-    B[Personal Message 👤]
-    C[Advertisement 🛍️]
-    D[Spam ⚠️]
-    Q1 -- Yes --> Q2
-    Q1 -- No --> Q3
-    Q2 -- Yes --> A
-    Q2 -- No --> B
-    Q3 -- Yes --> C
-    Q3 -- No --> D
-```
+In the first round, both groups hide their decision trees, representing a Black Box AI system. A student from the other group selects one of the visible items, and the group uses its questions to identify the selected item without revealing the complete decision structure.
 
-*Example two-level decision tree for the "email types" theme* ([PNG from the source document](figures/xai-decision-tree-example.png)).
-
-Once the decision trees are complete, the groups pair up for a two-part audit. The purpose of the audit is to explore how transparency can influence user trust.
-
-**Round 1 — Black Box mode.** Both groups hide their decision trees. This represents a Black Box AI system because the complete decision structure is not visible to the users. However, the four post-it notes showing the possible items remain visible.
-
-A student from Group B selects one of Group A's items without revealing their choice. Students in Group A then take turns asking yes/no questions until they identify the selected item. They do not show their complete decision tree or explain how their questions are organised. During this process, Group B may begin to infer parts of the hidden decision logic. The activity is then reversed, with a student from Group A selecting one of Group B's items.
-
-**Round 2 — XAI mode.** Both groups reveal their decision trees to activate XAI Mode. The activity is repeated, but this time the students must follow the predefined decision tree. They physically trace their fingers along the branches and read the decision rules aloud. This allows them to show how each answer leads to the final result and provide a fully explained decision.
-
-The session closes with a discussion of what explainability means in AI and how explanations can influence, increase, or reduce user trust. The discussion can be facilitated using the following prompting questions:
-
-- What made the second system more explainable?
-- Did seeing the decision path increase your trust? Why or why not?
-- Could an explanation reveal that a system is flawed and reduce trust?
-- Is a correct answer enough to justify trust?
-- What makes an explanation useful rather than merely visible?
+In the second round, both groups reveal their decision trees to activate XAI Mode. The activity is repeated, but this time students follow the predefined decision tree, trace the branches, and explain how each answer leads to the final result.
+The session closes with an instructor-led discussion, using guiding prompts, about what explainability means in AI and how explanations can influence, increase, or reduce user trust. Students also consider who the explanation is intended for and whether the same explanation would be equally useful for people with different levels of technical or digital knowledge.
 
 ## Keywords
 
-Explainable AI, Decision trees, Transparency, Black-box systems, User trust, Trust
+Explainable AI, decision trees, transparency, black-box systems, user trust, trust
 
 ## Prerequisites
 
-- Definition of explainable AI systems
-- Description of decision trees
+- Definition of explainable AI systems, description of decision trees
 
 ## Resources
 
-- 1 pack of post-it notes per team
-- Flipcharts for drawing out each group's decision tree
+- Sticky notes, Flipcharts
 
 ## Assessment
 
