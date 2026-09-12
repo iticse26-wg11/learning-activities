@@ -71,6 +71,7 @@ LA13, LA14
 - [LA02](activities/LA02/README.md) AI History Timeline: [expanded.md](activities/LA02/expanded.md)
 - [LA03](activities/LA03/README.md) Unplugged Language Model Simulation: [expanded.md](activities/LA03/expanded.md)
 - [LA08](activities/LA08/README.md) Designing an Explainable AI System: [expanded.md](activities/LA08/expanded.md)
+- [LA11](activities/LA11/README.md) Content Detection Limitations: [expanded.md](activities/LA11/expanded.md)
 - [LA14](activities/LA14/README.md) Personal AI Use Reflection: [expanded.md](activities/LA14/expanded.md)
 <!-- END GENERATED -->
 

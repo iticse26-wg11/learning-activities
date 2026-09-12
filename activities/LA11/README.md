@@ -12,7 +12,7 @@ duration: "60-90 minutes"
 assessment: "No"
 assessed: false
 scale: "Two or more small groups"
-expanded_version: null
+expanded_version: "expanded.md"
 ---
 <!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
@@ -22,6 +22,8 @@ expanded_version: null
 - [EPR07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR07.md): identify tools and procedures for evaluating and verifying model outputs, and apply these to assess AI-generated content.
 
 **Type:** In-class, small groups, digital · **Duration:** 60-90 minutes · **Scale:** Two or more small groups
+
+> Expanded version: [expanded.md](expanded.md)
 
 ## Description
 
