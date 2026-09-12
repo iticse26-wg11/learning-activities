@@ -18,7 +18,8 @@ expanded_version: "expanded.md"
 
 # Designing an Explainable AI System
 
-**Related ILOs:** [MM07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM07.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM07.md): articulate what explainability means in AI (i.e., XAI) and how it can improve user's trust when dealing with AI systems.
 
 **Type:** In-class, small groups, unplugged · **Duration:** 80-120 minutes · **Scale:** Small and large cohorts
 

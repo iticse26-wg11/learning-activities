@@ -18,7 +18,8 @@ expanded_version: null
 
 # LLM Output Evaluation and Fact-Checking
 
-**Related ILOs:** [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md): explain the shortcomings of GenAI outputs (e.g. accuracy, reliability) and recognise the need to follow the appropriate policies and regulations within the context where the outputs will be used.
 
 **Type:** In-class, individual, digital · **Duration:** 60 minutes · **Scale:** Small and large cohorts
 

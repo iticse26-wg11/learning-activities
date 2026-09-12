@@ -25,7 +25,9 @@ FM_RE = re.compile(r"---\n(.*?)\n---\n", re.S)
 ID_RE = r"(?:H|MM|EPR|CS)\d{2}[a-z]?"
 # existing markdown links and inline code are left alone; bare ids get linked
 TOKEN_RE = re.compile(r"\[[^\]]*\]\([^)]*\)|`[^`]*`|\b(" + ID_RE + r")\b")
-RELATED_RE = re.compile(r"^\*\*Related ILOs:\*\*.*$", re.M)
+# the header block runs from "**Related ILOs" up to the "**Type:**" line (blank lines included)
+RELATED_RE = re.compile(r"^\*\*Related ILOs.*?(?=\n\*\*Type:\*\*)", re.M | re.S)
+ILO_STMT, ILO_STEM = {}, "at the end of the course, students should be able to …"
 
 def load():
     acts = []
@@ -43,6 +45,7 @@ def ilo_order():
     if not ILO_YAML.exists():
         return None
     y = yaml.safe_load(ILO_YAML.read_text())
+    ILO_STMT.update({i["id"]: i["statement"].strip() for i in y["ilos"]})
     return [i["id"] for i in y["ilos"]], {a["id"]: a["name"] for a in y["areas"]}
 
 def link(a):
@@ -54,14 +57,20 @@ def ilo_link(i):
 def ilo_links(ids):
     return ", ".join(ilo_link(i) for i in ids)
 
+def ilo_block(title, ids, note):
+    """Bold title line followed by one bullet per ILO with its statement (ids only if ilos.yaml is absent)."""
+    if not ILO_STMT:
+        return f"**{title}:** {ilo_links(ids)}"
+    return "\n".join([f"**{title}** ({note})"] + [f"- {ilo_link(i)}: {ILO_STMT.get(i, '?')}" for i in ids])
+
 def activity_readme(a):
-    """Frontmatter untouched; header line regenerated; bare ILO ids in the body linked."""
-    header = f"**Related ILOs:** {ilo_links(a['related_ilos'])}"
+    """Frontmatter untouched; the ILO header block regenerated; bare ILO ids in the body linked."""
+    header = ilo_block("Related ILOs", a["related_ilos"], ILO_STEM)
     if a.get("prerequisite_ilos"):
-        header += f" · **Prerequisite ILOs:** {ilo_links(a['prerequisite_ilos'])}"
-    body, n = RELATED_RE.subn(lambda m: header, a["_body"], count=1)
+        header += "\n\n" + ilo_block("Prerequisite ILOs", a["prerequisite_ilos"], "assumed before this activity")
+    body, n = RELATED_RE.subn(lambda m: header + "\n", a["_body"], count=1)
     if n == 0:
-        sys.exit(f"{a['_path']}: no '**Related ILOs:**' line to regenerate")
+        sys.exit(f"{a['_path']}: no '**Related ILOs' … '**Type:**' header block to regenerate")
     body = TOKEN_RE.sub(lambda m: ilo_link(m.group(1)) if m.group(1) else m.group(0), body)
     return a["_fm"] + body
 

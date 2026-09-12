@@ -18,7 +18,8 @@ expanded_version: null
 
 # Content Detection Limitations
 
-**Related ILOs:** [EPR07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR07.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR07.md): identify tools and procedures for evaluating and verifying model outputs, and apply these to assess AI-generated content.
 
 **Type:** In-class, small groups, digital · **Duration:** 60-90 minutes · **Scale:** Two or more small groups
 

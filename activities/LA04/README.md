@@ -18,7 +18,9 @@ expanded_version: null
 
 # Anatomy of (Another) AI System
 
-**Related ILOs:** [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md), [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md): understand the origins of resources (e.g. water, minerals, human labor) required to train, deploy, and host large-scale AI models
+- [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md): analyze the effects of GenAI automation on human labor, workplace expectations, and the labor market.
 
 **Type:** In-class, small groups, offline · **Duration:** 60 minutes · **Scale:** One or more small groups
 

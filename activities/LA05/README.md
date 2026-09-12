@@ -18,7 +18,12 @@ expanded_version: null
 
 # AI Model Pipeline
 
-**Related ILOs:** [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md), [EPR03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR03.md) · **Prerequisite ILOs:** [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md): explain, in high-level terms, the GenAI model development process, including data collection, pre-training, and alignment methods such as fine-tuning and RLHF, as well as limitations associated with these processes (e.g., biases related with data collection, dataset cutoff dates).
+- [EPR03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR03.md): evaluate data management in GenAI systems in order to identify risks of misuse, manipulation, and threats to data sovereignty.
+
+**Prerequisite ILOs** (assumed before this activity)
+- [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md): explain operational GenAI concepts (e.g., tokens, context windows, probability distributions, and non-determinism) and use these concepts to interpret system behavior, output variability, and prompt sensitivity.
 
 **Type:** In-class, individual and small groups, unplugged · **Duration:** 45 minutes · **Scale:** Suitable for small to large classes, can be completed individually, in small groups, or using a combination of individual work, group discussion, and a class debrief.
 

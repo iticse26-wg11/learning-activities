@@ -18,7 +18,8 @@ expanded_version: "expanded.md"
 
 # Personal AI Use Reflection
 
-**Related ILOs:** [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md): explain how overreliance on GenAI can lead to cognitive debt.
 
 **Type:** In-class, pre-sessional, individual or small group, digital · **Duration:** 45 minutes · **Scale:** Two or more small groups
 

@@ -18,7 +18,9 @@ expanded_version: null
 
 # AI Evaluation Frameworks and Policies
 
-**Related ILOs:** [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md), [EPR12](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR12.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md): evaluate (the use of) GenAI systems against relevant normative principles (e.g., fairness, transparency, accountability, safety, robustness, and human governance).
+- [EPR12](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR12.md): identify and interpret relevant GenAI policies, assessing their applicability to and impacts on GenAI use in different contexts.
 
 **Type:** In-class, small groups, unplugged · **Duration:** 90 minutes (45 + 45 for the two phases) · **Scale:** Two or more small groups
 

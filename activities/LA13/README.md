@@ -18,7 +18,14 @@ expanded_version: null
 
 # Application of AI to a Specific Problem: Problem Decomposition, Model Selection, Output Evaluation
 
-**Related ILOs:** [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md), [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md), [CS05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS05.md), [CS06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS06.md) · **Prerequisite ILOs:** [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [CS01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS01.md): distinguish between different types of GenAI systems (e.g., web-based chatbots, coding assistants, local vs cloud-hosted models) and apply this knowledge to select an appropriate system for specific contexts.
+- [CS03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS03.md): compare open-source and proprietary GenAI models and identify their main advantages and disadvantages for a given context, for example in terms of data privacy.
+- [CS05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS05.md): deconstruct (decompose) problems and determine appropriate subtasks to be undertaken by humans or GenAI systems.
+- [CS06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS06.md): distinguish between different levels of human oversight and automation in GenAI-supported development workflows (e.g., AI-assisted, agentic, or highly automated workflows) and select an appropriate workflow for a given scenario.
+
+**Prerequisite ILOs** (assumed before this activity)
+- [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md): explain operational GenAI concepts (e.g., tokens, context windows, probability distributions, and non-determinism) and use these concepts to interpret system behavior, output variability, and prompt sensitivity.
 
 **Type:** In-class, pre-sessional, individual or small group, digital · **Duration:** 3 hours of in-class activities (Suggestion: implement phase 1 in the same class session (2 hours) and phase 2 in the following one (1 hour). · **Scale:** Two or more small groups, scalable to large classes
 

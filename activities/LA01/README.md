@@ -18,7 +18,8 @@ expanded_version: null
 
 # AI Mindmap
 
-**Related ILOs:** [MM05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM05.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM05.md): analyze existing misconceptions about GenAI, distinguishing between its actual capabilities and common myths / misinterpretations.
 
 **Type:** In-class, individual and small groups · **Duration:** 50 minutes · **Scale:** Any size of classroom
 

@@ -18,7 +18,9 @@ expanded_version: "expanded.md"
 
 # AI History Timeline
 
-**Related ILOs:** [H01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H01.md), [H02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H02.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [H01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H01.md): identify key milestones (e.g. symbolic AI, rule-based systems, machine learning, transformers, …) in AI history and explain why the field experienced periods of rapid advancement and decline (AI winters)
+- [H02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/H02.md): distinguish between earlier applications of AI (e.g., search algorithms and engines, recommendation systems, navigation systems) and GenAI
 
 **Type:** In-class, small groups, unplugged · **Duration:** 45 minutes · **Scale:** Two or more small groups
 

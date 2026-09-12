@@ -32,7 +32,3 @@ Arrange the following ‘milestones’ in artificial intelligence on a timeline 
   - Future: does not currently exist.
 - **Personal ‘AI milestone’**
   - Reflect on a moment in life that influenced your thinking or understanding about AI.
-
-## Source
-
-An earlier version of this expanded activity was shared as a Google Doc: <https://docs.google.com/document/d/1_l-GA_432BFovrtk_5Yj1o6kry0Enl-Uf0ndprU22ss/edit?tab=t.0>

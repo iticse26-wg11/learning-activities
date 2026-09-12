@@ -18,7 +18,9 @@ expanded_version: null
 
 # Inductive LLM Explainability Pipeline
 
-**Related ILOs:** [MM08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM08.md), [EPR06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR06.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM08.md): discuss the limitations of explainability in GenAI, including why outputs can be difficult to interpret, and identify strategies to assess the model's responses (e.g., fact-checking against trusted sources and cross-checking outputs with alternative prompts) despite limited transparency.
+- [EPR06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR06.md): differentiate between reliable, trustworthy, and responsible GenAI systems.
 
 **Type:** In-class, small groups, digital · **Duration:** 1 hour · **Scale:** Small and large cohorts
 

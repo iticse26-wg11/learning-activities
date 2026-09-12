@@ -18,7 +18,10 @@ expanded_version: "expanded.md"
 
 # Unplugged Language Model Simulation
 
-**Related ILOs:** [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md), [EPR02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR02.md), [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md): explain how GenAI models generate output using a simplified "next-word prediction" process, recognising that real systems predict tokens and use contextual information from prompts and prior text to determine their responses.
+- [EPR02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR02.md): identify data sources used to train GenAI models and describe how training data quality, consent, and representation shape GenAI model behaviors.
+- [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md): explain operational GenAI concepts (e.g., tokens, context windows, probability distributions, and non-determinism) and use these concepts to interpret system behavior, output variability, and prompt sensitivity.
 
 **Type:** In-class, small groups, unplugged · **Duration:** 45 minutes · **Scale:** Two or more small groups, scalable for large classes
 

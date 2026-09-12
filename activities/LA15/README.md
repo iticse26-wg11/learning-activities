@@ -18,7 +18,11 @@ expanded_version: null
 
 # AI Application Project
 
-**Related ILOs:** [EPR11](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR11.md), [EPR13](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR13.md), [EPR14](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR14.md), [CS07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS07.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [EPR11](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR11.md): design a plan for the responsible and context-appropriate use of GenAI, including documenting of GenAI-related outputs and decisions
+- [EPR13](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR13.md): discuss societal perceptions of and expectations around GenAI use, taking into consideration power dynamics in the adoption of GenAI tools.
+- [EPR14](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR14.md): discuss frameworks for the fair and responsible use of GenAI in the student's particular discipline.
+- [CS07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS07.md): apply prompt refinement techniques and evaluate outputs iteratively in order to improve alignment between generated content and intended outcomes.
 
 **Type:** In-class, individual or small group, digital · **Duration:** 2 hours · **Scale:** Small and large cohorts
 

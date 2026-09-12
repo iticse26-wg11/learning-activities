@@ -303,6 +303,7 @@ def main():
     stamp = (f"Imported from the WG11 report, {SECTION} (Overleaf commit {commit}) by scripts/import-from-report.py. "
              "The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten.")
     bib = load_bib(report)
+    build_index.ilo_order()          # loads ILO statements for the header block
     acts = parse_section(tex)
     only = {x.strip() for x in args.only.split(",") if x.strip()}
     changed, wrote = [], []

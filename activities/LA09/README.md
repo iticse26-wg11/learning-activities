@@ -18,7 +18,9 @@ expanded_version: null
 
 # AI Alignment Lab
 
-**Related ILOs:** [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md), [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md)
+**Related ILOs** (at the end of the course, students should be able to …)
+- [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md): evaluate technical, ethical and practical limitations of GenAI systems (e.g. hallucinations, computational cost, context window, lack of true understanding, biases, …)
+- [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md): recognize limitations in GenAI model outputs, including hallucination, misinformation, privacy leakage, harmful content, in the context of societal impacts.
 
 **Type:** In-class, individual or small groups, digital · **Duration:** 2 hours (including individual investigation and reflection outside of class) · **Scale:** Individual assignment, or one or more small groups
 
