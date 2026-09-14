@@ -8,21 +8,21 @@ type: "In-class, small groups, offline"
 setting: ["In-class"]
 grouping: ["Small groups"]
 mode: Offline
-duration: "60 minutes"
+duration: "1 hour"
 assessment: "Formative assessment evaluating depth and specificity of group’s research, and group’s ability to connect findings to each other and earlier class discussions/readings"
 assessed: true
 scale: "One or more small groups"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Anatomy of (Another) AI System
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md): understand the origins of resources (e.g. water, minerals, human labor) required to train, deploy, and host large-scale AI models
-- [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md): analyze the effects of GenAI automation on human labor, workplace expectations, and the labor market.
+- [EPR01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR01.md): understand the origins of resources (e.g., water, minerals, energy, human labor) required to train, deploy, and host large-scale AI models.
+- [EPR09](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR09.md): analyze the effects of GenAI systems on human labor, workplace expectations, and the labor market.
 
-**Type:** In-class, small groups, offline · **Duration:** 60 minutes · **Scale:** One or more small groups
+**Type:** In-class, small groups, offline · **Duration:** 1 hour · **Scale:** One or more small groups
 
 ## Description
 

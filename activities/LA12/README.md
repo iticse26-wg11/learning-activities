@@ -8,21 +8,21 @@ type: "In-class, small groups, unplugged"
 setting: ["In-class"]
 grouping: ["Small groups"]
 mode: Unplugged
-duration: "90 minutes (45 + 45 for the two phases)"
-assessment: "Each group submits its completed evaluation grid, including its definitions and its evaluation using the AI policy."
+duration: "90 minutes (45 per phase)"
+assessment: "Each group submits its completed evaluation grid"
 assessed: true
 scale: "Two or more small groups"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # AI Evaluation Frameworks and Policies
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md): evaluate (the use of) GenAI systems against relevant normative principles (e.g., fairness, transparency, accountability, safety, robustness, and human governance).
+- [EPR10](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR10.md): evaluate the use of GenAI systems against relevant normative principles (e.g., fairness, transparency, accountability, safety, robustness, and human governance).
 - [EPR12](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR12.md): identify and interpret relevant GenAI policies, assessing their applicability to and impacts on GenAI use in different contexts.
 
-**Type:** In-class, small groups, unplugged · **Duration:** 90 minutes (45 + 45 for the two phases) · **Scale:** Two or more small groups
+**Type:** In-class, small groups, unplugged · **Duration:** 90 minutes (45 per phase) · **Scale:** Two or more small groups
 
 ## Description
 
@@ -38,19 +38,15 @@ Fairness, transparency, accountability, AI policy, risk classification
 
 ## Prerequisites
 
-- Prior knowledge of GenAI and its limitations, no prior legal or policy knowledge required, Phase 2 depends on phase 1 having established the vocabulary of the principles.
+- Familiarity with GenAI and its limitations; no legal or policy knowledge required; Phase 2 builds on the vocabulary established in Phase 1
 
 ## Resources
 
-- Case cards: 4–6 short descriptions of concrete GenAI systems/use cases, written at an appropriate level of detail (purpose, users, data, known failure modes)
-- Simplified AI policy handouts: 1–2 pages each, one assigned per group, pre-processed so groups aren't reading raw legal text. Each handout should include not only the relevant rules but also how that policy defines or refers to the principles from phase 1, quoting the policy's own wording where it defines fairness, transparency, accountability, etc., and noting where a principle is only implied or not mentioned at all, so groups have something concrete to compare their own definitions against. Some examples of formal policies you could use are:
-  - EU AI Act. Groups use it to classify their case and work out what obligations follow ([link](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)).
-  - EU Ethics Guidelines for Trustworthy AI. This framework defines the principles from phase 1 (human oversight, robustness and safety, transparency, fairness, accountability). Groups use it to compare their own definitions against a formal set. The companion checklist ALTAI ([link](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)) is free.
-  - The university's own AI / academic-integrity policy. This includes the rules students actually live under at your university, so it's the most concrete for them. Groups check what's permitted, required, or banned for their case. The instructor supplies this.
-  - An industry acceptable use policy. This includes a provider's own rules for its tool, e.g., OpenAI's or Anthropic's public Usage Policies. Groups use the "disallowed uses" and "user responsibilities" sections to see what the maker restricts
-- Whiteboard/flipchart or large poster paper for the shared framework; sticky notes and markers
-- An evaluation grid template for groups to fill in, with room for (1) principles × rating, (2) policy classification and the obligations that follow, and (3) a principle-by-principle comparison: is each of our principles named in the policy, defined the same way or differently, and what does each side include that the other leaves out
+- Case cards: 4–6 short descriptions of GenAI systems or use cases (purpose, users, data, known failure modes)
+- Simplified policy handouts (1–2 pages, one per group) quoting how each policy defines or omits the Phase 1 principles, e.g., the EU AI Act, the EU Ethics Guidelines for Trustworthy AI with its ALTAI checklist, the university's own AI or academic-integrity policy, or a provider's usage policy
+- Poster paper or whiteboard, sticky notes and markers for the shared framework
+- Evaluation grid template: principles and ratings, policy classification and obligations, principle-by-principle comparison
 
 ## Assessment
 
-Each group submits its completed evaluation grid, including its definitions and its evaluation using the AI policy.
+Each group submits its completed evaluation grid

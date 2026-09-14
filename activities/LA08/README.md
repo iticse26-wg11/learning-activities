@@ -1,7 +1,7 @@
 ---
 id: LA08
 title: "Designing an Explainable AI System"
-keywords: ["Explainable AI", "decision trees", "transparency", "black-box systems", "user trust", "trust"]
+keywords: ["Explainable AI", "decision trees", "transparency", "black-box systems", "user trust"]
 related_ilos: [MM07]
 prerequisite_ilos: []
 type: "In-class, small groups, unplugged"
@@ -14,7 +14,7 @@ assessed: false
 scale: "Small and large cohorts"
 expanded_version: "expanded.md"
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Designing an Explainable AI System
 
@@ -38,9 +38,11 @@ In the first round, both groups hide their decision trees, representing a Black 
 In the second round, both groups reveal their decision trees to activate XAI Mode. The activity is repeated, but this time students follow the predefined decision tree, trace the branches, and explain how each answer leads to the final result.
 The session closes with an instructor-led discussion, using guiding prompts, about what explainability means in AI and how explanations can influence, increase, or reduce user trust. Students also consider who the explanation is intended for and whether the same explanation would be equally useful for people with different levels of technical or digital knowledge.
 
+See the [expanded version](expanded.md) of this activity.
+
 ## Keywords
 
-Explainable AI, decision trees, transparency, black-box systems, user trust, trust
+Explainable AI, decision trees, transparency, black-box systems, user trust
 
 ## Prerequisites
 

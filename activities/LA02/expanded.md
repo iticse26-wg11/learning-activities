@@ -1,4 +1,4 @@
-<!-- Ported by hand from the WG11 report, appendicies/activity2-ai-history-timeline.tex (Overleaf state fb8ec81, 2026-09-12). The report appendix is the source of truth; re-port if it changes. -->
+<!-- Ported by hand from the WG11 report, appendicies/activity2-ai-history-timeline.tex (Overleaf state fb8ec81, 2026-09-12; unchanged in bf239f6, report version 1 as submitted, checked 2026-09-14). The report appendix is the source of truth; re-port if it changes. -->
 
 # LA02. AI History Timeline — expanded version
 

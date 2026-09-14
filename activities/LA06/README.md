@@ -8,20 +8,20 @@ type: "In-class, individual, digital"
 setting: ["In-class"]
 grouping: ["Individual"]
 mode: Digital
-duration: "60 minutes"
+duration: "1 hour"
 assessment: "No"
 assessed: false
 scale: "Small and large cohorts"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # LLM Output Evaluation and Fact-Checking
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md): explain the shortcomings of GenAI outputs (e.g. accuracy, reliability) and recognise the need to follow the appropriate policies and regulations within the context where the outputs will be used.
+- [EPR04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR04.md): explain the shortcomings of GenAI outputs (e.g., accuracy, reliability) and recognize the need to follow the appropriate policies and regulations within the context where the outputs will be used.
 
-**Type:** In-class, individual, digital · **Duration:** 60 minutes · **Scale:** Small and large cohorts
+**Type:** In-class, individual, digital · **Duration:** 1 hour · **Scale:** Small and large cohorts
 
 ## Description
 

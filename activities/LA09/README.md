@@ -14,13 +14,13 @@ assessed: false
 scale: "Individual assignment, or one or more small groups"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # AI Alignment Lab
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md): evaluate technical, ethical and practical limitations of GenAI systems (e.g. hallucinations, computational cost, context window, lack of true understanding, biases, …)
-- [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md): recognize limitations in GenAI model outputs, including hallucination, misinformation, privacy leakage, harmful content, in the context of societal impacts.
+- [MM03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM03.md): evaluate technical, ethical and practical limitations of GenAI systems (e.g., hallucinations, computational cost, context window, lack of true understanding, biases, …).
+- [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md): recognize limitations of GenAI model outputs, including hallucination, misinformation, privacy leakage, harmful content, in the context of societal impacts.
 
 **Type:** In-class, individual or small groups, digital · **Duration:** 2 hours (including individual investigation and reflection outside of class) · **Scale:** Individual assignment, or one or more small groups
 
@@ -38,7 +38,7 @@ AI alignment, AI jailbreaks, model safety, misuse prevention, Python lab
 
 ## Resources
 
-- Python notebook lab file ([link](https://colab.research.google.com/drive/1Ohl5zZ58EXg3pfuh2omPJArixupYExa3?usp=sharing)) (with a Python notebook application like Google Colab with sufficient memory to download the 7B-parameter LLM)
+- Python notebook lab file ([link](https://colab.research.google.com/drive/1Ohl5zZ58EXg3pfuh2omPJArixupYExa3)) (with a Python notebook application like Google Colab with sufficient memory to download the 7B-parameter LLM)
 
 ## Assessment
 

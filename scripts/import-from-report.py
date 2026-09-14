@@ -132,6 +132,9 @@ def inline_to_md(tex, la, bib, cited):
         if "Appendix" not in m.group(1): warn(la, "stripped red text: " + m.group(1).strip()[:80])
         return ""
     t = re.sub(r"\\color\{red\}(.*?)\\color\{black\}", color_block, t, flags=re.S)
+    # pointer to the appendix -> link to the expanded version kept in this directory
+    t = re.sub(r"See\s+Appendix[~\s]*\\ref\{app:[^}]*\}\s*for an expanded version of this activity\.",
+               "See the [expanded version](expanded.md) of this activity.", t)
     # citations, footnotes, links
     def cite(m):
         out = []
@@ -143,13 +146,13 @@ def inline_to_md(tex, la, bib, cited):
             out.append(f"[{cite_inline(e)}]({url})" if url else cite_inline(e))
         return " ".join(out)
     t = re.sub(r"\\cite\{([^}]*)\}", cite, t)
-    t = re.sub(r"\\footnote\{\s*(https?://[^}\s]+)\s*\}", lambda m: f" ([link]({m.group(1)}))", t)
+    t = re.sub(r"\\footnote\{\s*(https?://[^}\s]+)\s*\}", lambda m: f" ([link]({m.group(1).rstrip('?')}))", t)
     t = re.sub(r"\\footnote\{([^}]*)\}", r" (\1)", t)
     t = re.sub(r"\\href\{([^}]*)\}\{([^}]*)\}", r"[\2](\1)", t)
     t = re.sub(r"\\url\{([^}]*)\}", r"<\1>", t)
     # ids and run-in headings
     t = re.sub(r"\\(?:ilo|la)\{(\w+)\}", r"\1", t)
-    t = re.sub(r"\s*\\paragraph\*?\{(.*?)\}\s*", lambda m: f"\n\n**{strip_fmt(m.group(1))}.** ", t)
+    t = re.sub(r"\s*\\paragraph\*?\{((?:[^{}]|\{[^{}]*\})*)\}\s*", lambda m: f"\n\n**{strip_fmt(m.group(1))}.** ", t)
     # simple formatting (innermost first, a few passes for nesting)
     for _ in range(3):
         t = re.sub(r"\\textbf\{([^{}]*)\}", r"**\1**", t)
@@ -174,7 +177,8 @@ def inline_to_md(tex, la, bib, cited):
     return t
 
 def strip_fmt(s):
-    return re.sub(r"\\(?:textbf|emph|textit)\{([^{}]*)\}", r"\1", s)
+    for _ in range(2): s = re.sub(r"\\(?:textbf|emph|textit)\{([^{}]*)\}", r"\1", s)
+    return s
 
 def tidy(md):
     md = re.sub(r"[ \t]+\n", "\n", md)

@@ -14,7 +14,7 @@ assessed: false
 scale: "Two or more small groups"
 expanded_version: "expanded.md"
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Content Detection Limitations
 
@@ -27,13 +27,19 @@ expanded_version: "expanded.md"
 
 ## Description
 
-This activity consists of two parts. Part 1, defining the evaluation procedure (e.g., a checklist to verify the GenAI system's output) and part 2, applying these procedures to assess AI-generated content. The entire class is given one scenario, e.g., Imagine your group is building an AI Zoo Guide. Visitors can type in questions and the AI is supposed to act like a helpful Zoo Guide. The AI is only allowed to use facts from the official Zoo Fact Book.
+This activity helps students evaluate and verify AI model outputs, identify content generation limitations, and apply systematic procedures to detect errors or hallucinations. This activity consists of two parts. Part 1 defines the evaluation procedure (e.g., a checklist to verify the GenAI system's output), and part 2 applies these procedures to assess AI-generated content.
 
-The students are divided into groups. Each group is tasked with writing out a checklist or procedure to verify model output based on a given scenario (e.g., Did the AI stay inside the zoo boundaries? Did the AI system hallucinate?). Groups are encouraged to test their evaluation procedures and modify the evaluation criteria where relevant.
+*Phase 1.* To start this activity, the entire class is given one scenario to develop an evaluation procedure. An example scenario the instructor could provide to students is: *Imagine your group has been tasked with building an AI chatbot to answer visitor questions at a zoo. To keep visitors safe and informed, the AI has one job and strict rules. The AI must answer visitor questions accurately using only the official Zoo Fact Book. The strict rules are that the AI chatbot must not make up facts (hallucinate), give off-topic advice, or encourage dangerous behavior.*
 
-For the second phase of this activity, each group swaps their evaluation procedure with another group. Using the swapped evaluation procedure, groups are tasked with applying the evaluation procedure produced by the students to assess the output of GenAI generated content. Groups are also encouraged to use adversarial approaches to intentionally engineer edge cases, trick questions, or deceptive prompts to bypass or nullify the initial scenario scope.
+Next, students are divided into groups, and each group writes a checklist or procedure to verify the AI system's output based on the given scenario. Using the AI zoo chatbot example above, the checklist should include tests evaluating if the AI system stayed inside the boundaries (e.g., the zoo factbook for the examples above) or if the AI system hallucinated.
 
-The entire class is regrouped to discuss their experience of evaluating model output with the lecturer providing clear guidance on best practice and tools.
+The students are provided with guidance on developing the evaluation procedure. This should include test questions or prompts for the AI system, together with clear criteria for judging the responses, preferably using binary “Pass/Fail” results where appropriate. The questions should test accuracy, scope, and safety, including cases that are answerable from the provided knowledge base as well as questions that are off-topic, unsafe, based on false premises, or cannot be answered from the available information.
+
+Next, groups are encouraged to test their evaluation procedures and modify the evaluation criteria where relevant.
+
+*Phase 2* For the second phase of the activity, each group swaps its evaluation procedure with another group. Using the swapped procedure, groups test the same GenAI system and scenario and evaluate the outputs it produces. They are also encouraged to use adversarial approaches, such as edge cases, trick questions, or deceptive prompts, to test whether the system can be pushed beyond the boundaries defined in the original scenario.
+
+The entire class is regrouped to discuss their experience of evaluating model output, with the lecturer providing clear guidance on best practice and tools.
 
 ## Keywords
 

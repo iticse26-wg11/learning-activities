@@ -19,7 +19,7 @@ expanded_version: null
 # AI Model Pipeline
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md): explain, in high-level terms, the GenAI model development process, including data collection, pre-training, and alignment methods such as fine-tuning and RLHF, as well as limitations associated with these processes (e.g., biases related with data collection, dataset cutoff dates).
+- [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md): explain, in high-level terms, the GenAI model development process, including data collection, pre-training, and alignment methods such as fine-tuning and reinforcement learning from human feedback (RLHF), as well as limitations associated with these processes (e.g., biases related to data collection, dataset cutoff dates).
 - [EPR03](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR03.md): evaluate data management in GenAI systems in order to identify risks of misuse, manipulation, and threats to data sovereignty.
 
 **Prerequisite ILOs** (assumed before this activity)
