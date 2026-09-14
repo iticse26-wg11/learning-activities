@@ -132,3 +132,7 @@ status: retired            # repo-owned, optional
 - 2026-09-12: content re-imported from the report (post-focus-group revisions by the activity authors) with `scripts/import-from-report.py`; the four report appendices ported as `expanded.md`.
 - 2026-09-10: renumbered to report order, id-only paths, generated index and ILO links.
 - 2026-08: first extraction from `wg11-activities.pdf` (*Final Set of Activities (To Review) #2*).
+
+## License
+
+Content is released under [CC BY 4.0](LICENSE): reuse and adapt it freely with attribution to ITiCSE 2026 Working Group 11. Figures inside `activities/*/figures/` carry the same license unless a file says otherwise.
