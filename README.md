@@ -133,6 +133,31 @@ status: retired            # repo-owned, optional
 - 2026-09-10: renumbered to report order, id-only paths, generated index and ILO links.
 - 2026-08: first extraction from `wg11-activities.pdf` (*Final Set of Activities (To Review) #2*).
 
+## Citing this work
+
+The working group's full report is not yet published. Until it is, please cite the working-group proposal:
+
+> Bruno Pereira Cipriano, Olga Petrovska, Nuno Pombo, Lina Battestilli, Laura Farinetti, Richard Glassey, Maria Kasinidou, Olakunle Olayinka, Anshul Shah, Alexander Steinmaurer, Ramalakshmi Vaidhiyanathan, and James Weichert. 2026. Towards Improving CS Students' Generative AI Literacy. In *Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education V. 2 (ITiCSE 2026)*. Association for Computing Machinery, New York, NY, USA, 789–790. https://doi.org/10.1145/3803401.3812055
+
+```bibtex
+@inproceedings{10.1145/3803401.3812055,
+  author    = {Pereira Cipriano, Bruno and Petrovska, Olga and Pombo, Nuno and Battestilli, Lina and Farinetti, Laura and Glassey, Richard and Kasinidou, Maria and Olayinka, Olakunle and Shah, Anshul and Steinmaurer, Alexander and Vaidhiyanathan, Ramalakshmi and James, Weichert},
+  title     = {Towards Improving CS Students' Generative AI Literacy},
+  year      = {2026},
+  isbn      = {9798400726330},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3803401.3812055},
+  doi       = {10.1145/3803401.3812055},
+  booktitle = {Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education V. 2},
+  pages     = {789--790},
+  numpages  = {2},
+  keywords  = {genai, large language models, computing education, instructional design},
+  location  = {Spain},
+  series    = {ITiCSE 2026}
+}
+```
+
 ## License
 
 Content is released under [CC BY 4.0](LICENSE): reuse and adapt it freely with attribution to ITiCSE 2026 Working Group 11. Figures inside `activities/*/figures/` carry the same license unless a file says otherwise.
