@@ -1,4 +1,4 @@
-<!-- Ported by hand from the WG11 report, appendicies/activity1-lm-simulation.tex (Overleaf state bf239f6, 2026-09-14, report version 1 as submitted). The report appendix is the source of truth; re-port if it changes. -->
+<!-- Ported by hand from the WG11 report, appendicies/activity1-lm-simulation.tex (Overleaf state efd0f39, 2026-11-24, the version accepted by the working group). The report appendix is the source of truth; re-port if it changes. -->
 
 # LA03. Unplugged Language Model Simulation — expanded version
 

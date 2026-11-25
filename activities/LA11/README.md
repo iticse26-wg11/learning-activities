@@ -9,12 +9,12 @@ setting: ["In-class"]
 grouping: ["Small groups"]
 mode: Digital
 duration: "60-90 minutes"
-assessment: "No"
-assessed: false
+assessment: "Formative assessment on the developed evaluation procedure, checking whether it includes test cases for answerable questions, unavailable information, off-topic requests, and unsafe or adversarial prompts."
+assessed: true
 scale: "Two or more small groups"
 expanded_version: "expanded.md"
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Content Detection Limitations
 
@@ -27,7 +27,7 @@ expanded_version: "expanded.md"
 
 ## Description
 
-This activity helps students evaluate and verify AI model outputs, identify content generation limitations, and apply systematic procedures to detect errors or hallucinations. This activity consists of two parts. Part 1 defines the evaluation procedure (e.g., a checklist to verify the GenAI system's output), and part 2 applies these procedures to assess AI-generated content.
+This activity helps students evaluate and verify AI model outputs, identify content generation limitations, and apply systematic procedures to detect errors or hallucinations. This activity consists of two phases. Phase 1 defines the evaluation procedure (e.g., a checklist to verify the GenAI system's output), and phase 2 applies these procedures to assess AI-generated content.
 
 *Phase 1.* To start this activity, the entire class is given one scenario to develop an evaluation procedure. An example scenario the instructor could provide to students is: *Imagine your group has been tasked with building an AI chatbot to answer visitor questions at a zoo. To keep visitors safe and informed, the AI has one job and strict rules. The AI must answer visitor questions accurately using only the official Zoo Fact Book. The strict rules are that the AI chatbot must not make up facts (hallucinate), give off-topic advice, or encourage dangerous behavior.*
 
@@ -55,4 +55,4 @@ Output evaluation, hallucination detection, adversarial prompting, evaluation cr
 
 ## Assessment
 
-No
+Formative assessment on the developed evaluation procedure, checking whether it includes test cases for answerable questions, unavailable information, off-topic requests, and unsafe or adversarial prompts.

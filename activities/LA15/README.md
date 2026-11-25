@@ -2,7 +2,7 @@
 id: LA15
 title: "AI Application Project"
 keywords: ["AI-assisted creation", "prompt iteration", "reflective practice", "human-AI contribution", "responsible use"]
-related_ilos: [EPR11, EPR13, EPR14, CS07]
+related_ilos: [EPR11, EPR13, EPR14, CS08]
 prerequisite_ilos: []
 type: "In-class, individual or small group, digital"
 setting: ["In-class"]
@@ -14,7 +14,7 @@ assessed: false
 scale: "Small and large cohorts"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # AI Application Project
 
@@ -22,13 +22,13 @@ expanded_version: null
 - [EPR11](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR11.md): design a plan for the responsible and context-appropriate use of GenAI, including documenting GenAI-related outputs and decisions.
 - [EPR13](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR13.md): discuss societal perceptions of and expectations around GenAI use, taking into consideration power dynamics in the adoption of GenAI tools.
 - [EPR14](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR14.md): discuss frameworks for the fair and responsible use of GenAI in the student's particular discipline.
-- [CS07](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS07.md): apply prompt refinement techniques and evaluate outputs iteratively in order to improve alignment between generated content and intended outcomes.
+- [CS08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS08.md): apply prompt refinement techniques and evaluate outputs iteratively in order to improve alignment between generated content and intended outcomes.
 
 **Type:** In-class, individual or small group, digital · **Duration:** 3 hours (90 min per session) · **Scale:** Small and large cohorts
 
 ## Description
 
-This activity consists of two phases. The first phase is called “Plan and Create”, while the second phase is called “Reflect and Discuss”. In the first, students use GenAI to plan and execute a task. In the second, students reflect individually on their plans and results, and then discuss in groups. The two phases can be done in the same session or in individual sessions.
+This activity consists of two phases. The first phase is called “Plan and Create” (tasks 1-2), while the second phase is called “Reflect and Discuss” (tasks 3-4). In the first, students use GenAI to plan and execute a task. In the second, students reflect individually on their plans and results, and then discuss in groups. The two phases can be done in the same session or in individual sessions.
 
 This activity aims to enable students to produce an artifact, critically reflect on the creation of the artifact while considering fair and responsible use of GenAI systems.
 

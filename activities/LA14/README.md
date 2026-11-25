@@ -14,12 +14,12 @@ assessed: false
 scale: "Two or more small groups"
 expanded_version: "expanded.md"
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Personal AI Use Reflection
 
 **Related ILOs** (at the end of the course, students should be able to …)
-- [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md): explain how overreliance on GenAI can lead to cognitive debt.
+- [EPR08](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR08.md): explain how over-reliance on GenAI can lead to cognitive debt.
 
 **Type:** In-class, pre-sessional, individual or small group, digital · **Duration:** 45 minutes · **Scale:** Two or more small groups
 
@@ -33,7 +33,7 @@ Before a lecture on topics covering “AI Use and Cognitive Debt,” students in
 
 In the classroom, students are divided into small groups and are instructed to discuss: Where does cognitive debt build up fastest? Which uses seem beneficial, and which may create risks for learning or skill development? Is some debt okay, in the same way calculators made mental math optional? During the discussion, they produce a short summary reporting the main conclusion of their work, and specifically the areas in which cognitive debt is potentially more harmful.
 
-After this task, the class discusses common patterns and ideas to counter them (e.g., writing first drafts without AI, explaining AI output in your own words, practicing skills you are losing). The instructor helps students distinguish routine assistance, which does not necessarily create cognitive debt, from genuine overreliance, which is risky.
+After this task, the class discusses common patterns and ideas to counter them (e.g., writing first drafts without AI, explaining AI output in your own words, practicing skills you are losing). The instructor helps students distinguish routine assistance, which does not necessarily create cognitive debt, from genuine over-reliance, which is risky.
 
 This activity can be integrated into an existing assignment where AI use is allowed (e.g., a programming or writing task such as activity “AI Application Project: AI Usage Plan, AI-Assisted Software Development Evaluation Framework, Concluding Discussion”). Students then reflect on their AI use for that specific assignment rather than on their general habits: Which parts did AI produce? Which parts do I fully understand? Could I do this again without AI? This makes the reflection more concrete and is easy to add to technical courses without a separate session.
 

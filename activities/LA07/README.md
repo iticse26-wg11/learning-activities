@@ -14,7 +14,7 @@ assessed: false
 scale: "Small and large cohorts"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Inductive LLM Explainability Pipeline
 
@@ -35,12 +35,12 @@ The students are tasked with working in pairs to discuss whether they were able 
 *Some of the questions that can be asked as part of the fact-checking process are:*
 
 - Who is/are the author(s)?
-- What is/are the evidence(s) provided?
+- What evidence is provided?
 - What are credible sources for this type of information and what do they say?
 - Has the information been verified against at least two independent and credible resources?
 - What is the publication date?
 - Is there any record or evidence supporting or contradicting the claim?
-- Has there been any text searches or reverse image searches that verify the claim?
+- Have there been any text searches or reverse image searches that verify the claim?
 
 *Task 2 - Reflection* The instructor provides students with definitions of reliable, trustworthy, and responsible GenAI systems. Using the fact-checking example above, they assess the reliable characteristics of the output they received. The session closes with the instructor leading a discussion on the difference between reliable, trustworthy, and responsible GenAI systems. The instructor also provides examples of such system/frameworks/models.
 

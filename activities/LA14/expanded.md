@@ -1,4 +1,4 @@
-<!-- Ported by hand from the WG11 report, appendicies/activity3-ai-personal-reflection.tex (Overleaf state fb8ec81, 2026-09-12; unchanged in bf239f6, report version 1 as submitted, checked 2026-09-14). The report appendix is the source of truth; re-port if it changes. -->
+<!-- Ported by hand from the WG11 report, appendicies/activity3-ai-personal-reflection.tex (Overleaf state efd0f39, 2026-11-24, the version accepted by the working group). The report appendix is the source of truth; re-port if it changes. -->
 
 # LA14. Personal AI Use Reflection — expanded version
 
@@ -21,7 +21,7 @@ This approach makes the reflection more concrete and can be easily incorporated 
   - How often have you used them?
   - What tasks have you used them for?
 - Reflect on your use of GenAI and answer the following questions:
-  - Are there any skills—such as writing, debugging, summarising, planning, or translating—that you practise less frequently now?
+  - Are there any skills—such as writing, debugging, summarizing, planning, or translating—that you practise less frequently now?
   - Are there any tasks that you delegate entirely to GenAI? If so, which ones?
   - Which tasks would you now find difficult to complete without GenAI?
   - Do you engage in a dialogue with GenAI tools, or do you simply ask them questions?

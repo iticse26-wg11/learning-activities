@@ -9,12 +9,12 @@ setting: ["In-class"]
 grouping: ["Small groups"]
 mode: Unplugged
 duration: "45 minutes"
-assessment: "No"
-assessed: false
+assessment: "At the end of the activity, students individually determine the next generated word for a given prompt, n-gram table, and die roll. The instructor reviews their responses to verify whether the generated words match the expected outputs based on the provided n-gram table and sequence of die rolls."
+assessed: true
 scale: "Two or more small groups, scalable for large classes"
 expanded_version: "expanded.md"
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit bf239f6 2026-09-14) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # Unplugged Language Model Simulation
 
@@ -47,4 +47,4 @@ Language modeling, n-grams, token sampling, training data, randomness
 
 ## Assessment
 
-No
+At the end of the activity, students individually determine the next generated word for a given prompt, n-gram table, and die roll. The instructor reviews their responses to verify whether the generated words match the expected outputs based on the provided n-gram table and sequence of die rolls.

@@ -2,7 +2,7 @@
 id: LA10
 title: "AI Use Case Analysis and Evaluation"
 keywords: ["use-case analysis", "output quality", "ethical evaluation", "factual errors"]
-related_ilos: [MM04, MM06, CS04a, CS04b]
+related_ilos: [MM04, MM06, CS04, CS05]
 prerequisite_ilos: [MM01, MM02, EPR05, CS02]
 type: "In-class, individual or small groups, digital"
 setting: ["In-class"]
@@ -14,20 +14,20 @@ assessed: false
 scale: "Small and large cohorts"
 expanded_version: null
 ---
-<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit fb8ec81 2026-09-12) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
+<!-- Imported from the WG11 report, sections/60-design-activities.tex (Overleaf commit efd0f39 2026-11-24) by scripts/import-from-report.py. The report is the source of truth: edit it there and re-run the import; hand edits here are overwritten. -->
 
 # AI Use Case Analysis and Evaluation
 
 **Related ILOs** (at the end of the course, students should be able to …)
 - [MM04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM04.md): identify potential GenAI use cases, such as summarization, augmented reasoning, generating content, evaluating content, ideation, and role playing, whilst recognizing that these systems might make occasional mistakes.
 - [MM06](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM06.md): evaluate whether GenAI is appropriate for use in specific scenarios, based on ethical, practical, and task-related considerations.
-- [CS04a](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04a.md): demonstrate the understanding of the need to verify and review GenAI outputs for correctness, completeness, bias, and potential harm before integrating them into a final solution.
-- [CS04b](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04b.md): explain limitations of GenAI verification arising from non-determinism, incomplete model transparency, and probabilistic output generation.
+- [CS04](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS04.md): demonstrate the understanding of the need to verify and review GenAI outputs for correctness, completeness, bias, and potential harm before integrating them into a final solution.
+- [CS05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS05.md): explain limitations of GenAI verification arising from non-determinism, incomplete model transparency, and probabilistic output generation.
 
 **Prerequisite ILOs** (assumed before this activity)
 - [MM01](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM01.md): explain how GenAI models generate output using a simplified “next-word prediction” process, recognizing that real systems predict tokens and use contextual information from prompts and prior text to determine their responses.
 - [MM02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/MM02.md): explain, in high-level terms, the GenAI model development process, including data collection, pre-training, and alignment methods such as fine-tuning and reinforcement learning from human feedback (RLHF), as well as limitations associated with these processes (e.g., biases related to data collection, dataset cutoff dates).
-- [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md): recognize limitations of GenAI model outputs, including hallucination, misinformation, privacy leakage, harmful content, in the context of societal impacts.
+- [EPR05](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/EPR05.md): recognize limitations of GenAI model outputs, including hallucination, misinformation, privacy leakage, and harmful content, in the context of societal impacts.
 - [CS02](https://github.com/iticse26-wg11/intended-learning-outcomes/blob/main/ilos/CS02.md): explain operational GenAI concepts (e.g., tokens, context windows, probability distributions, and non-determinism) and use these concepts to interpret system behavior, output variability, and prompt sensitivity.
 
 **Type:** In-class, individual or small groups, digital · **Duration:** 75 minutes total. 20 minutes for individual work on one use case + 20 minutes for within-group sharing + 30 minutes for the final discussion, perhaps between groups · **Scale:** Small and large cohorts
